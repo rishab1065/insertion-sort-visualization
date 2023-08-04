@@ -1,0 +1,22 @@
+.editor-container {
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+}
+
+.bar-container{
+    border: 1px solid black;
+    padding: 12px;
+    display: flex;
+    gap: 8px;
+    height: 40vh;
+    align-items: flex-end;
+    position: relative;
+}
+
+.controls-container {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+}
